@@ -52,7 +52,7 @@ Tools to Install for Windows Mixed Reality Development: [aka.ms/install-the-tool
 
 MRTK Spatial Observer: [aka.ms/mrtk-spatial-observer-code](https://aka.ms/mrtk-spatial-observer-code)
 
-UX Guidance on Spatial Mesh: [aka.ms/spatial-mesh](https://aka.ms/spatial-mesh]
+UX Guidance on Spatial Mesh: [aka.ms/spatial-mesh](https://aka.ms/spatial-mesh)
 
 ## Contact
 
