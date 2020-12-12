@@ -42,17 +42,17 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Spatial Awaren
 
 ## Resources
 
-Set up a mixed reality project in Unity with the Mixed Reality Toolkit: [aka.ms/learn-mrtk](https://aka.ms/learn-mrtk)
-
 Mixed Reality Toolkit Repo: [aka.ms/mrtk](https://aka.ms/mrtk)
-
-MRTK Spatial Awareness System: [aka.ms/mrtk-spatial-awareness](https://aka.ms/mrtk-spatial-awareness)
 
 Tools to Install for Windows Mixed Reality Development: [aka.ms/install-the-tools](https://aka.ms/install-the-tools)
 
-MRTK Spatial Observer: [aka.ms/mrtk-spatial-observer-code](https://aka.ms/mrtk-spatial-observer-code)
+Set up a mixed reality project in Unity with the Mixed Reality Toolkit: [aka.ms/learn-mrtk](https://aka.ms/learn-mrtk)
 
 UX Guidance on Spatial Mesh: [aka.ms/spatial-mesh](https://aka.ms/spatial-mesh)
+
+MRTK Spatial Awareness System: [aka.ms/mrtk-spatial-awareness](https://aka.ms/mrtk-spatial-awareness)
+
+MRTK Spatial Observer: [aka.ms/mrtk-spatial-observer-code](https://aka.ms/mrtk-spatial-observer-code)
 
 ## Contact
 
