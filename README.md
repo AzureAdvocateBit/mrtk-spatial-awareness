@@ -1,13 +1,10 @@
-# Made with MRTK: Spatial Awareness
-Made with MRTK: Spatial Awareness Unity package
-
-# <p align="center">MRTK Spatial Awareness</p>
+# <p align="center">Made with MRTK: Spatial Awareness</p>
 <p align="center">
   <a href="https://github.com/aprilspeight/mrtk-spatial-awareness/blob/master/README.md#requirements">Requirements</a> |
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#videos">Videos</a> |
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#view-the-sample">View the Sample</a> | 
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#resources">Resources</a> | 
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#contact">Contact</a>
+  <a href="https://github.com/aprilspeight/mrtk-spatial-awareness/blob/master/README.md#videos">Videos</a> |
+  <a href="https://github.com/aprilspeight/mrtk-spatial-awareness/blob/master/README.md#view-the-sample">View the Sample</a> | 
+  <a href="https://github.com/aprilspeight/mrtk-spatial-awareness/blob/master/README.md#resources">Resources</a> | 
+  <a href="https://github.com/aprilspeight/mrtk-spatial-awareness/blob/master/README.md#contact">Contact</a>
 </p>
 
 MRTK-Unity is a Microsoft-driven project that provides a set of components and features, used to accelerate cross-platform MR app development in Unity.
