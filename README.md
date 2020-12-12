@@ -25,7 +25,7 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Spatial Awaren
 
 |  Title |  Description |  Link |
 |---|---|---|
-| **Spatial Awareness: Configure Unity for WMR Developement**  | Learn how to setup your Unity environment for Windows Mixed Reality Development  |   |
+| **Spatial Awareness: Configure Unity for WMR Development**  | Learn how to setup your Unity environment for Windows Mixed Reality Development  |   |
 | **Spatial Awareness: Import MRTK into Unity** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. |   |
 | **Spatial Awareness: Enable Spatial Awareness System**  | Learn how to enable the MRTK Spatial Awareness system in Unity.  |   |
 | **Spatial Awareness: Add a Spatial Observer** | Learn how to add a spatial observer to the configuration profile.  |   |
