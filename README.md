@@ -52,7 +52,7 @@ UX Guidance on Spatial Mesh: [aka.ms/spatial-mesh](https://aka.ms/spatial-mesh)
 
 MRTK Spatial Awareness System: [aka.ms/mrtk-spatial-awareness](https://aka.ms/mrtk-spatial-awareness)
 
-MRTK Spatial Observer: [aka.ms/mrtk-spatial-observer-code](https://aka.ms/mrtk-spatial-observer-code)
+MRTK Spatial Observer: [aka.ms/mrtk-spatial-observers-code](https://aka.ms/mrtk-spatial-observers-code)
 
 ## Contact
 
