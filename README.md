@@ -27,8 +27,8 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Spatial Awaren
 |---|---|---|
 | **Spatial Awareness: Configure Unity for WMR Development**  | Learn how to setup your Unity environment for Windows Mixed Reality Development.  | [https://youtu.be/nrhBQlBP25k](https://youtu.be/nrhBQlBP25k)  |
 | **Spatial Awareness: Import MRTK into Unity** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. | https://youtu.be/LBy6EZSrd50  |
-| **Spatial Awareness: Enable Spatial Awareness System**  | Learn how to enable the MRTK Spatial Awareness system in Unity.  | https://youtu.be/bas7nqmGZJU   |
-| **Spatial Awareness: Add a Spatial Observer** | Learn how to add a spatial observer to the configuration profile.  | https://youtu.be/3HIb6Hh4AT8n |
+| **Spatial Awareness: Enable Spatial Awareness System**  | Learn how to enable the MRTK Spatial Awareness system in Unity.  | https://youtu.be/BhK4DHc_gZo   |
+| **Spatial Awareness: Add a Spatial Observer** | Learn how to add a spatial observer to the configuration profile.  | https://youtu.be/KJeDX6I0X-0 |
 | **Spatial Awareness: Add Objects to Scene**  | Learn how to add objects to the scene. Also, learn how to add a button to make the objects active after mapping the environment with spatial mesh.  | https://youtu.be/mOd-DVcjyu0  |
 | **Spatial Awareness: Add Button to Hide Spatial Mesh**  | Learn how to add a button that hides the spatial mesh when pressed.  |  https://youtu.be/umQbFnkOEGg |
 | **Spatial Awareness: Demo**  |  View a demo of the project with a HoloLens 2. | https://youtu.be/raUiRM7QT6k  |
